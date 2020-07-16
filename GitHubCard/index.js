@@ -62,3 +62,15 @@ const followersArray = [];
     luishrd
     bigknell
 */
+function cardCreator(user){
+  const card = document.createElement('div')
+  const img = document.createElement('img')
+  const info = document.createElement('div')
+  const name = document.createElement('h3')
+  const username = document.createElement('p')
+  const location = document.createElement('p')
+  const para = document.createElement('p')
+  const followers = document.createElement('p')
+  const following = document.createElement('p')
+  const bio = document.createElement('p')
+}
